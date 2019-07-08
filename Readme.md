@@ -1,0 +1,1 @@
+This project contains Azure function taking requests through http post and kicking off Azure DevOps build pipeline for virtual machine provisioning.  
